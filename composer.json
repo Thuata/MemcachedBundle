@@ -1,0 +1,24 @@
+{
+    "name": "thuata/memcachedbundle",
+    "license": "MIT",
+    "type": "symfony-bundle",
+    "description": "Memcached bundle for symfony",
+    "authors": [
+        {
+            "name": "Anthony Maudry",
+            "email": "anthony.maudry@thuata.com",
+            "homepage": "http://www.thuata.com/"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Thuata\\UserBundle\\": "" }
+    },
+    "require": {
+        "php": "~7.1",
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "master"
+        }
+    }
+}
