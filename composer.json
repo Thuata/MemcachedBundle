@@ -11,7 +11,7 @@
         }
     ],
     "autoload": {
-        "psr-4": { "Thuata\\UserBundle\\": "" }
+        "psr-4": { "Thuata\\MemcachedBundle\\": "" }
     },
     "require": {
         "php": "~7.1"
