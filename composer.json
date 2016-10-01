@@ -14,7 +14,7 @@
         "psr-4": { "Thuata\\UserBundle\\": "" }
     },
     "require": {
-        "php": "~7.1",
+        "php": "~7.1"
     },
     "extra": {
         "branch-alias": {
